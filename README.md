@@ -1,9 +1,9 @@
-# DETECTIVE_APP
+# android-app
 
 
 
-APP NAME::   1.HAWK_EYE
-             2.SUSPECT 
+APP NAME::   
+             1.SUSPECT 
 
 			 
 nitish khatri
